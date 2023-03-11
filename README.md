@@ -8,7 +8,7 @@
 
 ### My hobbies are coding💻, playing guitar🎸, reading📚, and working out🏋️‍♂️
 
-### You can contact me at ## jegesjoco@gmail.com
+### You can contact me at jegesjoco@gmail.com
 
 # Here are some of my projects:
 
