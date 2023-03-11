@@ -18,11 +18,11 @@
 
 ### Snake game: https://yyyeojsnake.netlify.app
 
-### Vanilla landing page: yyyeojvanillalandingpage.netlify.app
+### Vanilla landing page: https://yyyeojvanillalandingpage.netlify.app
 
 ### Basic to-do list: https://yyyeojbasictodo.netlify.app
 
-### Speed typing game: yyyeojspeedtype.netlify.app
+### Speed typing game: https://yyyeojspeedtype.netlify.app
 
 ### Basic survey: https://yyyeojbasicsurvey.netlify.app
 
