@@ -26,4 +26,4 @@
 
 ### Basic survey: https://yyyeojbasicsurvey.netlify.app
 
-### Simple product page: https://yyeojbasicproductpage.netlify.app
+### Simple product page: https://yyyeojbasicproductpage.netlify.app
