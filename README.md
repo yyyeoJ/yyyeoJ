@@ -8,17 +8,17 @@
 
 ### My hobbies are coding💻, playing guitar🎸, reading📚, and working out🏋️‍♂️
 
-#Here are some of my projects:
+# Here are some of my projects:
 
-###React landing page: https://yyyeojreactlandingpage.netlify.app
+### React landing page: https://yyyeojreactlandingpage.netlify.app
 
-###Recipe finder: https://yyyeojmealspiration.netlify.app
+### Recipe finder: https://yyyeojmealspiration.netlify.app
 
-###Snake game: https://yyyeojsnake.netlify.app
+### Snake game: https://yyyeojsnake.netlify.app
 
-###Basic to-do list: https://yyyeojbasictodo.netlify.app
+### Basic to-do list: https://yyyeojbasictodo.netlify.app
 
-###Basic survey: https://yyyeojbasicsurvey.netlify.app
+### Basic survey: https://yyyeojbasicsurvey.netlify.app
 
 
 
