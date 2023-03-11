@@ -14,7 +14,7 @@
 
 ### React landing page: https://yyyeojreactlandingpage.netlify.app
 
-### Recipe finder: https://yyyeojmealspiration.netlify.app
+### React Recipe finder: https://yyyeojmealspiration.netlify.app
 
 ### Snake game: https://yyyeojsnake.netlify.app
 
