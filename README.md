@@ -8,7 +8,7 @@
 
 ### My hobbies are coding💻, playing guitar🎸, reading📚, and working out🏋️‍♂️
 
-### You can contact me at mailto:jegesjoco@gmail.com
+### You can contact me at ## jegesjoco@gmail.com
 
 # Here are some of my projects:
 
@@ -26,4 +26,4 @@
 
 ### Basic survey: https://yyyeojbasicsurvey.netlify.app
 
-### Simple product page: yyeojbasicproductpage.netlify.app
+### Simple product page: https://yyeojbasicproductpage.netlify.app
