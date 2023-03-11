@@ -8,6 +8,8 @@
 
 ### My hobbies are coding💻, playing guitar🎸, reading📚, and working out🏋️‍♂️
 
+### You can contact me at mailto:jegesjoco@gmail.com
+
 # Here are some of my projects:
 
 ### React landing page: https://yyyeojreactlandingpage.netlify.app
@@ -16,10 +18,12 @@
 
 ### Snake game: https://yyyeojsnake.netlify.app
 
+### Vanilla landing page: yyyeojvanillalandingpage.netlify.app
+
 ### Basic to-do list: https://yyyeojbasictodo.netlify.app
+
+### Speed typing game: yyyeojspeedtype.netlify.app
 
 ### Basic survey: https://yyyeojbasicsurvey.netlify.app
 
-
-
-
+### Simple product page: yyeojbasicproductpage.netlify.app
