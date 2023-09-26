@@ -2,7 +2,7 @@
 
 ## My name is Jeges József.
 
-### Im currently studying computer science at Eötvös Loránd Tudományegyetem in Budapest, Hungary 🇭🇺
+### Im currently studying computer science at Eötvös Loránd Tudományegyetem in Budapest, Hungary ❤🤍💚
 
 ### And im also learning web development as a hobby. 🤓
 
