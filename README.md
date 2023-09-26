@@ -2,9 +2,9 @@
 
 ## My name is Jeges József.
 
-### Im currently studying computer science at Eötvös Loránd Tudományegyetem in Budapest, Hungary
+### Im currently studying computer science at Eötvös Loránd Tudományegyetem in Budapest, Hungary 🇭🇺
 
-### And im also learning web development as a hobby.
+### And im also learning web development as a hobby. 🤓
 
 ### My other hobbies are: playing guitar🎸, reading📚, and working out🏋️‍♂️
 
