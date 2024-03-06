@@ -1,29 +1,33 @@
-# Hi there! 👋
+# Hi 👋, my name is **Jeges József**
 
-## My name is Jeges József.
+**`I am a Computer Science👩‍💻 student at ELTE university, Hungary 💓🤍💚`**
 
-### Im currently studying computer science at Eötvös Loránd Tudományegyetem in Budapest, Hungary ❤🤍💚
+<p>🔭 I’m currently working on a portfolio website</p>
+<p>🌱 I’m currently learning React, Java spring, Python</p>
+<p>🤝 I’m looking for:  landing an iternship</p>
+<p> 👨‍💻 All of my projects are available at <a href="https://github.com/yyyeoJ?tab=repositories">my profile</a></p>
 
-### And im also learning web development as a hobby. 🤓
+<div align="left">
+<p>📫 Contact me at:</p>
+<a href="https://linkedin.com/in/józsef-jeges" target="_blank">
+<img src=https://img.shields.io/badge/J%C3%B3zsef%20Jeges-%2520?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fj%25C3%25B3zsef-jeges-578a63229%2F alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:email@example.com" target="_blank">
+<img src=https://img.shields.io/badge/jegesjoco%40gmail.com-%2520?style=flat&logo=gmail&logoColor=white&labelColor=%23DB3E00&color=%23DB3E00&link=mailto%3Ajegesjoco%40gmail.com alt=gmail style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/>  
 
-### My other hobbies are: playing guitar🎸, reading📚, and working out🏋️‍♂️
 
-### You can contact me at ✉ jegesjoco@gmail.com
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yyyeoJ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyyeoj&" alt="yyyeoj" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeoJ&hide_border=true&layout=compact" align="center" /></div>   
+<br/>  
 
-# Here are some of my projects: ⬇
 
-### React landing page: https://yyyeojreactlandingpage.netlify.app
 
-### React Recipe finder: https://yyyeojmealspiration.netlify.app
 
-### Snake game: https://yyyeojsnake.netlify.app
 
-### Vanilla landing page: https://yyyeojvanillalandingpage.netlify.app
 
-### Basic to-do list: https://yyyeojbasictodo.netlify.app
 
-### Speed typing game: https://yyyeojspeedtype.netlify.app
-
-### Basic survey: https://yyyeojbasicsurvey.netlify.app
-
-### Simple product page: https://yyyeojbasicproductpage.netlify.app
