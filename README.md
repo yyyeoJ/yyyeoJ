@@ -18,16 +18,14 @@
 </div>  
 <br/>  
 
+# Github stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yyyeoJ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyyeoj&" alt="yyyeoj" /></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeoJ&hide_border=true&layout=compact" align="center" /></div>   
-<br/>  
+![yyyeoJ's Stats](https://github-readme-stats.vercel.app/api?username=yyyeoJ&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
 
+![yyyeoJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeoJ&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
-
+![yyyeoJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yyyeoJ&theme=blue-green&hide_border=true)
 
 
 
