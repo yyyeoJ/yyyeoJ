@@ -13,7 +13,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/j%C3%B3zsef-jeges-578a63229/">
 <img src=https://img.shields.io/badge/J%C3%B3zsef%20Jeges-%2520?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fj%25C3%25B3zsef-jeges-578a63229%2F alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:email@example.com" target="_blank">
+<a href="mailto:jegesjoco@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/jegesjoco%40gmail.com-%2520?style=flat&logo=gmail&logoColor=white&labelColor=%23DB3E00&color=%23DB3E00&link=mailto%3Ajegesjoco%40gmail.com alt=gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
