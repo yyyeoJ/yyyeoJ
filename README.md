@@ -6,7 +6,7 @@
 <p>🌱 I’m currently learning React, Java spring, Python</p>
 <p>🤝 I’m looking for:  landing an iternship</p>
 <p> 👨‍💻 All of my projects are available at my <a target="_blank" href="https://jegesjozsef.netlify.app">portfolio</a></p>
-<p> 📄 Check out my <a href="#">resume</a></p>
+<p> 📄 Check out my <a href="https://jegesjozsef.netlify.app/CV.pdf">resume</a></p>
 <p>📫 Contact me at: 👇</p>
 
 <p>
