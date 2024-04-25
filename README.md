@@ -5,7 +5,7 @@
 <p>🔭 I’m currently working on a portfolio website</p>
 <p>🌱 I’m currently learning React, Java spring, Python</p>
 <p>🤝 I’m looking for:  landing an iternship</p>
-<p> 👨‍💻 All of my projects are available at my <a target="_blank" href="https://jegesjozsef.netlify.app">portfolio</a></p>
+<p> 👨‍💻 All of my projects are available at my portfolio: <a target="_blank" href="https://jegesjozsef.netlify.app">English</a> | <a target="_blank" href="https://jegesjozsef.netlify.app/index_hu">Hungarian</a></p>
 <p> 📄 Check out my resume: <a href="https://jegesjozsef.netlify.app/CV_ENG.pdf">English</a> | <a href="https://jegesjozsef.netlify.app/CV_HU.pdf">Hungarian</a></p>
 <p>📫 Contact me at: 👇</p>
 
