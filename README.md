@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/jegesjozsef/">
+  <a target="_blank" href="https://www.linkedin.com/in/jozsefjeges/">
     <img src=https://img.shields.io/badge/J%C3%B3zsef%20Jeges-%2520?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fj%25C3%25B3zsef-jeges-578a63229%2F alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </p>
