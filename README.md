@@ -3,7 +3,6 @@
 **`I am a Computer Science student at ELTE university, Hungary `**
 
 <p> I’m currently working on a portfolio website</p>
-<p> I’m currently learning React, Angular, Firebase</p>
 <p>I’m looking for:  landing an iternship</p>
 <p>📄 All of my projects are available at my portfolio: <a target="_blank" href="https://jegesjozsef.netlify.app">English</a> | <a target="_blank" href="https://jegesjozsef.netlify.app/index_hu">Hungarian</a></p>
 <p> 📄 Check out my resume: <a href="https://jegesjozsef.netlify.app/CV_ENG.pdf">English</a> | <a href="https://jegesjozsef.netlify.app/CV_HU.pdf">Hungarian</a></p>
